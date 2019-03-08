@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\Settings\Settings\obj\Debug\netstandard2.0\Settings.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Settings\Settings\obj\Debug\netstandard2.0\Settings.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Settings\Settings\obj\Debug\netstandard2.0\Settings.AssemblyInfo.cs
+C:\Users\USER\source\repos\Settings\Settings\bin\Debug\netstandard2.0\Settings.deps.json
+C:\Users\USER\source\repos\Settings\Settings\bin\Debug\netstandard2.0\Settings.dll
+C:\Users\USER\source\repos\Settings\Settings\bin\Debug\netstandard2.0\Settings.pdb
+C:\Users\USER\source\repos\Settings\Settings\obj\Debug\netstandard2.0\Settings.dll
+C:\Users\USER\source\repos\Settings\Settings\obj\Debug\netstandard2.0\Settings.pdb
+C:\Users\USER\source\repos\Settings\Settings\obj\Debug\netstandard2.0\Settings.csprojAssemblyReference.cache
